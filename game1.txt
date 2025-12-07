@@ -1,0 +1,9 @@
+(def base_hp 0b1100100);
+
+@{
+  player = [[Hero]];
+  hp = $base_hp$;
+  inventory = array([[sword]], [[potion]]);
+}
+
+

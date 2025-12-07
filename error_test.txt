@@ -1,0 +1,5 @@
+@{
+  port = 0b1010
+  host = [[no_semicolon_here]];
+}
+

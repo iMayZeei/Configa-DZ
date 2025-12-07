@@ -1,0 +1,12 @@
+(def default_port 0b1010001011);
+
+@{
+  name = [[main_server]];
+  port = $default_port$;
+  tags = array([[web]], [[prod]]);
+}
+
+
+
+
+
